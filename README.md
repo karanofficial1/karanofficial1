@@ -7,6 +7,8 @@
 <a href="karandhami2054@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
+![Profile Views](https://komarev.com/ghpvc/?username=karanofficial1&color=blueviolet&style=for-the-badge)
+
 </div>
 
 ---
@@ -18,7 +20,6 @@ I am learning data science using Python, and I am working on a project to unders
 <div align="center">
 <img src="./assets/terminal.gif" width="80%" alt="terminal intro"/>
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=karanofficial1&color=blueviolet&style=for-the-badge)
 
 - 🔭 Currently learning how AI-integrated backend systems work.
 - 🧠 learning LLM-powered applications and RAG pipelines
