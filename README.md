@@ -18,7 +18,7 @@ I am learning data science using Python, and I am working on a project to unders
 <div align="center">
 <img src="./assets/terminal.gif" width="80%" alt="terminal intro"/>
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=karanofficial1&color=blueviolet&style=for-the-badge)
+[Profile Views](https://komarev.com/ghpvc/?username=karanofficial1&color=blueviolet&style=for-the-badge)
 
 - 🔭 Currently learning how AI-integrated backend systems work.
 - 🧠 learning LLM-powered applications and RAG pipelines
