@@ -14,7 +14,7 @@
 
 ## ⚡ About
 
-I am learning data science using Python, and I am working on a project to understand how data can be collected, cleaned, analyzed, and visualized. In my project, I use Python libraries such as Pandas and NumPy to work with datasets and perform basic data analysis. As I continue learning, I am exploring basic statistics and machine learning concepts to make predictions from data. This project is helping me improve my Python programming, analytical thinking, problem-solving, and data visualization skills while gaining practical experience in data science.
+I am  learning data science using Python, and I am working on a project to understand how data can be collected, cleaned, analyzed, and visualized. In my project, I use Python libraries such as Pandas and NumPy to work with datasets and perform basic data analysis. As I continue learning, I am exploring basic statistics and machine learning concepts to make predictions from data. This project is helping me improve my Python programming, analytical thinking, problem-solving, and data visualization skills while gaining practical experience in data science.
 
 <div align="center">
 <img src="./assets/terminal.gif" width="80%" alt="terminal intro"/>
